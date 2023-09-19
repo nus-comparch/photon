@@ -1,0 +1,21 @@
+[submodule "akita"]
+	path = akita
+	url = https://github.com/lchangxii/akita.git
+[submodule "dnn"]
+	path = dnn
+	url = https://github.com/lchangxii/dnn.git
+[submodule "micro2023_artifact_evaluation"]
+	path = micro2023_artifact_evaluation
+	url = https://github.com/lchangxii/micro2023_artifact_evaluation.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/lchangxii/micro2023_artifact_evaluation.git
+[submodule "mlcommons"]
+	path = mlcommons
+	url = https://github.com/lchangxii/photon.git
+[submodule "micro2023_figures"]
+	path = micro2023_figures
+	url = https://github.com/lchangxii/micro2023_figures.git
+[submodule "sampled-mgpu-sim"]
+	path = sampled-mgpu-sim
+	url = https://github.com/lchangxii/sampled-mgpu-sim.git
